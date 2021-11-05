@@ -1,4 +1,4 @@
-# Drug-discovery
+# Computational-Drug-Discovery(CDD)
 Bio-informatics 
 Part - I
  Data collection
